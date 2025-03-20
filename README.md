@@ -1,8 +1,6 @@
 # napari-stereoTis
 
-[![License](https://img.shields.io/pypi/l/napari-stereoTis.svg?color=green)](https://github.com/secretloong/napari-stereoTis/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-stereoTis.svg?color=green)](https://pypi.org/project/napari-stereoTis)
-[![Python Version](https://img.shields.io/pypi/pyversions/napari-stereoTis.svg?color=green)](https://python.org)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-stereoTis)](https://napari-hub.org/plugins/napari-stereoTis)
 
 ## Description
