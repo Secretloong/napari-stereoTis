@@ -55,7 +55,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-Distributed under the terms of the [BSD-3] license,
+Distributed under the terms of the [Apache License 2.0],
 "napari-stereoTis" is free and open source software.
 
 ## Issues
@@ -63,5 +63,5 @@ Distributed under the terms of the [BSD-3] license,
 If you encounter any problems, please [file an issue] along with a detailed description.
 
 [napari]: https://github.com/napari/napari
-[BSD-3]: http://opensource.org/licenses/BSD-3-Clause
+[Apache License 2.0]: https://www.apache.org/licenses/LICENSE-2.0
 [file an issue]: https://github.com/secretloong/napari-stereoTis/issues
